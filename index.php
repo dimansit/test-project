@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    
+    Тут тесовая страница
 </body>
 </html>
